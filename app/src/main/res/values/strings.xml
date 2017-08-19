@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinTest</string>
+    <string name="home">首页</string>
+    <string name="open_slide_menu">打开</string>
+    <string name="close_slide_menu">关闭</string>
+    <string name="dialog_waiting">努力加载中....</string>
+    <string name="share">分享</string>
+</resources>

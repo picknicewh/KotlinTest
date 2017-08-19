@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/bell"
+        android:icon="@mipmap/ic_bell"
+        app:showAsAction="always"
+        android:title="取消关注"/>
+    <item android:id="@+id/share"
+        android:icon="@mipmap/ic_share"
+        app:showAsAction="always"
+        android:title="分享"/>
+    <item android:id="@+id/add"
+        android:icon="@mipmap/icon_circle_add"
+        app:showAsAction="always"
+        android:title="关注"
+        android:visible="false"/>
+    <item android:id="@+id/minus"
+        android:icon="@mipmap/ic_circle_minus"
+        app:showAsAction="always"
+        android:title="取消关注"
+        android:visible="false"/>
+</menu>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="toolbar_theme" parent="@style/ThemeOverlay.AppCompat.Light">
+
+        <item name="android:colorControlNormal">@android:color/white</item>
+        <!--这个也正确,用这个吧-->
+        <item name="colorControlNormal">@android:color/white</item>
+        <item name="android:elevation">@dimen/space_x0.5</item>
+    </style>
+
+
+</resources>
